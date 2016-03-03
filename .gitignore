@@ -25,6 +25,12 @@
 *.log
 *.unsuccessfulbuild
 *.cache
+*.obj
+*.res
+*.lastbuildstate
+*.ipch
+*.rc
+*.manifest
 ###############
 #  临时文件   #
 ###############
