@@ -1,0 +1,19 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.sdf
+*.ncb
+*.suo
+*.pch
+*.pdb
+*.idb
+*.exp
+*.map
+
+# Compiled Static libraries
+*.lai
+*.la
